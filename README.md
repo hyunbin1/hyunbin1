@@ -1,9 +1,11 @@
 ### Hi there 👋 Good to see you!🤗
 ## I'm Hyunbin Kim
 
-#### 🎆 I always want to be a greate developer who is better than before and helps others.
-#### 🐳 I'm currently learning C & Java(Spring)
-#### 🐓 What I learned before was Django using python, NodeJS using JS, Html, css, etc...
+🎆 I always want to be a greate developer who is better than before and helps others.
+</br>
+🐳 I'm currently learning C & Java(Spring)
+</br>
+🐓 What I learned before was Django using python, NodeJS using JS, Html, css, etc...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunbin1)](https://github.com/anuraghazra/github-readme-stats)
 
