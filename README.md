@@ -1,6 +1,6 @@
 ### Hi there 👋 Good to see you!🤗
 ## I'm Hyunbin Kim
-### My notion study note Link is here: https://www.notion.so/hyunbinkim
+### My notion study note Link is here: https://hyunbinkim.notion.site/fb0927db674d4aa584784cdabd911066?v=d1c04739cbd74238b2b2bba6898dd389
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunbin1)](https://github.com/anuraghazra/github-readme-stats)
