@@ -4,8 +4,6 @@
 Our Study group: https://www.notion.so/codinglive/CodingLive
 <br/>🤗 If you would like to join us, please contact us by email kimgusqls1@gmail.com 🤗
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunbin1)](https://github.com/anuraghazra/github-readme-stats)
-
 🎆 I always want to be a greate developer who is better than before and helps others.
 </br>
 🐳 I'm currently learning C & Java(Spring)
