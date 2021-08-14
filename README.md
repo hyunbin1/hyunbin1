@@ -1,4 +1,4 @@
-### Hi there 👋 Good to see you!�
+### Hi there 👋 Good to see you!
 ## I'm Hyunbin Kim
 
 **Our Study group: https://codinglive.notion.site/CodingLive-738827faeeef4d26b559b86814d675a4**
