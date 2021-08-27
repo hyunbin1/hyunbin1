@@ -10,10 +10,10 @@
 </br>
 🐓 What I learned before was Django using python, C, NodeJS using JS, Html, css, etc...
 
-<!-- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunbin1&count_bg=%2332DD14&title_bg=%238994ED&icon=staffbase.svg&icon_color=%23000000&title=Hi+there%21&edge_flat=false)](https://hits.seeyoufarm.com)
- -->
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunbin1&count_bg=%2332DD14&title_bg=%238994ED&icon=staffbase.svg&icon_color=%23000000&title=Hi+there%21&edge_flat=false)](https://hits.seeyoufarm.com)
+
+ 
   
   
   <!--
