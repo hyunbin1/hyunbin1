@@ -2,7 +2,7 @@
 ## I'm Hyunbin Kim   
  
 **Our Study group: https://codinglive.notion.site/CodingLive-738827faeeef4d26b559b86814d675a4**
-<br/> If you would like to join us, please contact us by email kimgusqls1@gmail.com 🤗
+<br/>
 
 🎆 I always want to be a greate developer who is better than before and helps others.
 </br>
