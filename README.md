@@ -6,7 +6,7 @@
 
 🎆 I always want to be a greate developer who is better than before and helps others.
 </br>
-🐳 I'm currently learning JS(Express) & Java(Spring)
+🐳 I'm currently learning JS(Express&React) & Java(Spring)
 </br>
 🐓 What I learned before was Django, Spring, NodeJS, Java, Js, C, Python, Html, css, etc...
 
