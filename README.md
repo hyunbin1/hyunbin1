@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffbf1b&height=200&section=header&text=Hi%20There👋%20I'm%20Hyunbin%20Kim&fontSize=50)
 
-  <a href="https://codinglive.notion1.site/CodingLive-738827faeeef4d26b559b86814d675a4"><img src="https://img.shields.io/badge/study Group-black?style=for-the-badge&logo=Notion&logoColor=white"></a>
+  <a href="https://www.notion.so/codinglive/CodingLive-738827faeeef4d26b559b86814d675a4"><img src="https://img.shields.io/badge/study Group-black?style=for-the-badge&logo=Notion&logoColor=white"></a>
   
 
 
