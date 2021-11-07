@@ -1,6 +1,6 @@
 <h3 align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffbf1b&height=200&section=header&text=Hi%20There👋%20I'm%20Hyunbin%20Kim&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffbf1b&height=200&section=header&text=Hi%20👋%20I'm%20Happy%20B.E-Developer&fontSize=45)
 
   <a href="https://codinglive.notion.site/CodingLive-738827faeeef4d26b559b86814d675a4"><img src="https://img.shields.io/badge/study Group-black?style=for-the-badge&logo=Notion&logoColor=white"></a>
   
