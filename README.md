@@ -1,6 +1,6 @@
 <h3 align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffc70f&height=200&section=header&text=Ask%20WHY?&fontSize=45&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=ffc70f&height=200&section=header&text=Ask%20WHY!&fontSize=80&animation=fadeIn)
   
   
 
