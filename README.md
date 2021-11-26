@@ -1,11 +1,11 @@
 <h3 align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=dddddd&height=200&section=header&text=Hi%20👋%20I'm%20Happy%20B.E-Developer&fontSize=45)
-
-  <a href="https://codinglive.notion.site/CodingLive-738827faeeef4d26b559b86814d675a4"><img src="https://img.shields.io/badge/study Group-black?style=for-the-badge&logo=Notion&logoColor=white"></a>
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffc70f&height=200&section=header&text=HI%20I'm%20Happy%20B.E-Developer&fontSize=45&animation=fadeIn)
+  
   
 
-
+  
+  <a href="https://codinglive.notion.site/CodingLive-738827faeeef4d26b559b86814d675a4"><img src="https://img.shields.io/badge/study Group-black?style=for-the-badge&logo=Notion&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">     <img src="https://img.shields.io/badge/Django-0f3e2e?style=for-the-badge&logo=Django&logoColor=black">      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black">
 
