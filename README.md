@@ -1,11 +1,11 @@
 <h3 align="center">
   
-![header](https://depth2022.notion.site/Home-2022-First-Half-1f92b727abf14499b0d6267cb21dffca)
+![header](https://capsule-render.vercel.app/api?type=soft&color=ffc70f&height=200&section=header&text=Ask%20Why?&fontSize=80&animation=fadeIn)
   
   
 
   
-  <a href="https://codinglive.notion.site/CodingLive-738827faeeef4d26b559b86814d675a4"><img src="https://img.shields.io/badge/study Group-black?style=for-the-badge&logo=Notion&logoColor=white"></a>
+  <a href="https://depth2022.notion.site/Home-2022-First-Half-1f92b727abf14499b0d6267cb21dffca"><img src="https://img.shields.io/badge/study Group-black?style=for-the-badge&logo=Notion&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">     <img src="https://img.shields.io/badge/Django-0f3e2e?style=for-the-badge&logo=Django&logoColor=black">      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black">
 
